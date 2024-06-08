@@ -2,9 +2,9 @@
 
 ### Greetings, my name is Arif 
 
-## I'm a Middle Frontend Developer
+### I'm a Middle Frontend Developer
 
-## My main goal is to develop strong and stable solutions to achieve a smooth and silky user experience
+#### My main goal is to develop strong and stable solutions to achieve a smooth and silky user experience
 
 📍 I’m From Bishkek (Kyrgyzstan)
 
