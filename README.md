@@ -1,6 +1,6 @@
 <img align="left" src="https://orhun.dev/img/crow.png">
 
-#### Greetings, my name is Arif 
+### Greetings, my name is Arif 
 
 ### I'm a Middle Frontend Developer
 
